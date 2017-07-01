@@ -6,4 +6,4 @@ COPY ./bin/Docker .
 
 ENV ASPNETCORE_ENVIRONMENT Docker
 
-ENTRYPOINT dotnet, Fibon.Api.dll
+ENTRYPOINT dotnet Fibon.Api.dll

@@ -4,3 +4,8 @@ dotnet sln add **/*.csproj lub dla każdego dotnet sln Fibon.sln add Fibon.Servi
 
 
 .\Scripts\dotnetPublish.shw główny katalogu aplikacji! w bin/ Api i Service powinno być Docker folder
+
+docker build -t wtobor/fibon-api ./Fibon.Api
+docker build -t wtobor/fibon-service ./Fibon.Service
+
+dla WTobor jest błąd -> musi być z małych   w GitBash bo inaczej się zamknie automatycznie konsola .\Scripts\buildDockerImages.sh
