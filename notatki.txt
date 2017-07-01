@@ -1,3 +1,6 @@
 dotnet new sln -n Fibon
 
 dotnet sln add **/*.csproj lub dla każdego dotnet sln Fibon.sln add Fibon.Service/Fibon.Service.csproj
+
+
+.\Scripts\dotnetPublish.shw główny katalogu aplikacji! w bin/ Api i Service powinno być Docker folder
