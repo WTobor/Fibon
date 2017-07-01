@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj",
+      "projectUniqueName": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj",
       "projectName": "Fibon.Messages",
-      "projectPath": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj",
-      "outputPath": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\obj\\",
+      "projectPath": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj",
+      "outputPath": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.5"
       ],
       "files": {
-        "lib/netstandard1.5/Fibon.Messages.dll": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\bin\\placeholder\\netstandard1.5\\Fibon.Messages.dll"
+        "lib/netstandard1.5/Fibon.Messages.dll": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\bin\\placeholder\\netstandard1.5\\Fibon.Messages.dll"
       },
       "frameworks": {
         "netstandard1.5": {

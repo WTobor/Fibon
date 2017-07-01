@@ -9659,22 +9659,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\Fibon.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\Fibon.Service.csproj",
       "projectName": "Fibon.Service",
-      "projectPath": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\Fibon.Service.csproj",
-      "outputPath": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\obj\\",
+      "projectPath": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\Fibon.Service.csproj",
+      "outputPath": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Fibon.Service.dll": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\bin\\placeholder\\netcoreapp1.1\\Fibon.Service.dll"
+        "lib/netcoreapp1.1/Fibon.Service.dll": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Service\\bin\\placeholder\\netcoreapp1.1\\Fibon.Service.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj": {
-              "projectPath": "c:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj"
+            "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj": {
+              "projectPath": "C:\\Users\\Wercia\\Desktop\\warsztaty\\dotnecore_docker\\Fibon.Messages\\Fibon.Messages.csproj"
             }
           }
         }
