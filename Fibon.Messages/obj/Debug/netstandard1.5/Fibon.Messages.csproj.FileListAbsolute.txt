@@ -1,0 +1,6 @@
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.deps.json
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.dll
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.pdb
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.AssemblyInfo.cs
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.dll
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.pdb

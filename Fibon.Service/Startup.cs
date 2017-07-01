@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Fibon.Service.Framework;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using RawRabbit;
 
 namespace Fibon.Service
 {
@@ -38,6 +40,16 @@ namespace Fibon.Service
             loggerFactory.AddDebug();
 
             app.UseMvc();
+        }
+
+        public void ConfigureRabbitMq(IServiceCollection services)
+        {
+            var options = new RabbitMqOptions();
+            var section = Configuration.GetSection("rabbitmq");
+            section.Bind(options);
+
+            var client = RawRabbit.vNext.BusClientFactory.CreateDefault(options);
+            services.AddSingleton<IBusClient>(_ => client);
         }
     }
 }
