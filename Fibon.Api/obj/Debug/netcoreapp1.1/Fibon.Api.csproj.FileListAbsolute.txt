@@ -1,0 +1,10 @@
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.deps.json
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.json
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.dev.json
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.dll
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.pdb
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Messages.dll
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Messages.pdb
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.AssemblyInfo.cs
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.dll
+C:\Users\Wercia\Desktop\warsztaty\dotnecore_docker\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.pdb
